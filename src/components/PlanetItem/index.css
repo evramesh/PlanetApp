@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.icon {
+  height: 250px;
+  width: 280px;
+}
+.head {
+  color: aquamarine;
+}
+.para {
+  color: white;
+}
+.mini {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

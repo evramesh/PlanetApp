@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.main {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  margin: 10px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  justify-content: center;
+}
